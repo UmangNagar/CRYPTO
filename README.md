@@ -18,3 +18,5 @@ Detail Screen
 
 Chart Library -> https://www.chartjs.org/
 Chart Library CDN -> https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js
+
+Deployed At : https://my-crypto-currency-tracker.netlify.app/
